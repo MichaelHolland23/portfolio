@@ -1,12 +1,12 @@
-# _track-suggester_
+# _Portfolio_
 
-#### _A website to help the user determine which courses to pursue., August 11th, 2017_
+#### _A website to showcase myself and the skills I am gaining at Epicodus. _
 
 #### By _**{Michael Holland}**_
 
 ## Description
 
-_This website is designed to give the user some information about the different courses in web development available to them, and help them to determine which one is right for them. It lists basic information about each track. It then uses the "forms" function in Javascript to gather information and takes their combination of inputs to give them a personalized recommendation._
+_This is a webpage designed to synthesize all of my current knowledge in web design. There is a brief introduction followed by descriptions and links of some of my projects._
 
 ## Setup/Installation Requirements
 
@@ -15,7 +15,7 @@ _
 
 ## Known Bugs
 
-There are no known bugs at this time. This project is still in development.
+There are no known bugs at this time. So far, so good!
 
 ## Support and contact details
 
