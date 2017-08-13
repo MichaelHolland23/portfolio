@@ -19,7 +19,8 @@ There are no known bugs at this time. So far, so good!
 
 ## Support and contact details
 
-_If there are any questions, comments or ideas about the code, please contact me at michaellholland@hotmail.com_
+_If there are any questions, comments or ideas about the code, please contact me at michaellholland@hotmail.com or here is the link to my gh-pages  https://github.com/MichaelHolland23/portfolio/tree/gh-pages_
+
 
 ## Technologies Used
 
